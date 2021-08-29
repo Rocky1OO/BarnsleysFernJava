@@ -1,4 +1,6 @@
 # BarnsleysFernJava
+![image](https://user-images.githubusercontent.com/29335344/131260916-0755b6bf-f46e-4a7f-9ec2-aede808c3335.png)
+
 	• Written for Processing.
 	• A fractal fern can be generated with 4 basic transformations.
 	• Changing 2 constants can alter the fern to model multiple species.
